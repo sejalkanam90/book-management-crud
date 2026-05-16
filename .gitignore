@@ -1,0 +1,14 @@
+# Backend ignore
+springbootproject/target/
+springbootproject/.classpath
+springbootproject/.project
+springbootproject/.settings/
+# Frontend ignore
+Book-Management-Frontend/node_modules/
+Book-Management-Frontend/build/
+Book-Management-Frontend/.env
+# IDE
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
