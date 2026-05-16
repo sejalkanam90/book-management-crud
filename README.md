@@ -133,40 +133,6 @@ Book-Management-Frontend/
 └── index.html
 
 📸 Screenshots
-Page	Screenshot
-Home Page
-<img width="2879" height="1629" alt="Screenshot 2026-05-16 204825" src="https://github.com/user-attachments/assets/4242c533-9a4c-4b0e-9da7-3e755e13f6d6" />
-<img width="2879" height="1629" alt="Screenshot 2026-05-16 204825" src="https://github.com/user-attachments/assets/2ee08929-a209-4060-b81d-e3fd0968545f" />
-<img width="2879" height="1629" alt="Screenshot 2026-05-16 204825" src="https://github.com/user-attachments/assets/5f0579ee-036f-42de-9075-c8523b19f0d2" />
-
-<img width="2879" height="1627" alt="Screenshot 2026-05-16 203930" src="https://github.com/user-attachments/assets/346d1c6d-4578-4f3c-909e-1d6bd5d46a85" />
-
-
-Add Book
-
-<img width="2871" height="1634" alt="Screenshot 2026-05-16 204102" src="https://github.com/user-attachments/assets/fc22b61c-5be6-4c14-bddc-974fe4952413" />
-
-Update Book	
-
-<img width="2879" height="1637" alt="Screenshot 2026-05-16 204141" src="https://github.com/user-attachments/assets/2da8c140-7634-43ab-b7a3-ed77e242629b" />
-
-Delete Book	
-<img width="2879" height="1631" alt="Screenshot 2026-05-16 204239" src="https://github.com/user-attachments/assets/41480fed-d62b-4e75-a46d-b6f3a9263f1e" />
-
-Search Book	
-
-<img width="2879" height="1626" alt="Screenshot 2026-05-16 204119" src="https://github.com/user-attachments/assets/f07dc757-f180-42d2-93b8-ed4a6e8cf120" />
-
-
-<img width="2879" height="1626" alt="Screenshot 2026-05-16 204119" src="https://github.com/user-attachments/assets/21f9b064-ec0b-4aed-a02c-daecb1b5574e" />
-
-Login Page	
-
-<img width="2870" height="1623" alt="Screenshot 2026-05-16 204811" src="https://github.com/user-attachments/assets/358845c3-2576-4a7c-96f6-f2fb92f6bfe1" />
-
-Signup Page	Coming soon
-
-<img width="2879" height="1629" alt="Screenshot 2026-05-16 204825" src="https://github.com/user-attachments/assets/84f25443-de02-4e24-98fa-fc9476d9e96e" />
 
 
 
